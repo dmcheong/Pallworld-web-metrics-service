@@ -1,8 +1,5 @@
 ## outils en relation avec le service
 
-PORT=3016
-
-
 # grafana
 grafana-server -v : Version 11.2.0 (commit: c57667e4481563f5e6cf945b03bc0626caa4dbeb, branch: HEAD)
 PORT=3000
