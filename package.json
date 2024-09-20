@@ -1,0 +1,17 @@
+{
+  "name": "mon-projet-node",
+  "version": "1.0.0",
+  "description": "Mon projet Node.js avec Express et prom-client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "prom-client": "^15.1.3"
+  }
+}
